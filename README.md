@@ -3,7 +3,7 @@
 - 🎓 I currently focus in React and React Native.
 -  🚀 I made projects in React, React Native, Angular, NodeJS, Express, Java, Spring Boot.
 -  :computer: I also enjoy editing images and videos with Photoshop, Adobe Premiere and Adobe After Effects.
--  👀 You can check my projects on my personal portfolio: https://mgm-portfolio.web.app/portfolio/mgmaxi
+-  👀 You can check my projects on my [PORTFOLIO](https://mgm-portfolio.web.app/portfolio/mgmaxi)
 
 
 ### Front End
