@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Maxi.
-- :man_technologist: I’m interested in web development.
-- 🎓 I currently focus in React and React Native.
--  🚀 I made projects in React, React Native, Angular, NodeJS, Express, Java, Spring Boot.
--  :computer: I also enjoy editing images and videos with Photoshop, Adobe Premiere and Adobe After Effects.
--  👀 You can check my projects on my [PORTFOLIO](https://mgm-portfolio.web.app/portfolio/mgmaxi)
+<a href="https://mgm-portfolio.web.app/portfolio/mgmaxi">
+  <img alt="cover" src="https://raw.githubusercontent.com/mgmaxi/mgmaxi/main/assets/cover/portada.png" />
+</a>
+<br><br>
+
+  - 👋 Hi, I’m Maxi.
+  - :man_technologist: I’m interested in web development.
+  - 🎓 I currently focus in React and React Native.
+  -  🚀 I made projects in React, React Native, Angular, NodeJS, Express, Java, Spring Boot.
+  -  :computer: I also enjoy editing images and videos with Photoshop, Adobe Premiere and Adobe After Effects.
+  -  👀 You can check my projects on my [PORTFOLIO](https://mgm-portfolio.web.app/portfolio/mgmaxi)
 
 
 ### Front End
